@@ -1,0 +1,30 @@
+html{
+    border: 50px solid aqua;
+    border-top: 30px solid black;
+    overflow:auto;
+    box-sizing:content-box;
+    /* font-family: 'Lato', sans-serif; */
+}
+body{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
+
+#paraa{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+    margin-left:200px;
+    margin-right: 200px;
+}
+
+.tenor-gif-embed{
+    margin: 0px 0px 0px 500px;
+    height: 300px;
+    width: 500px;
+}
